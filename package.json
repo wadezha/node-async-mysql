@@ -1,5 +1,5 @@
 {
-  "name": "async-mysql",
+  "name": "node-async-mysql",
   "version": "1.0.0",
   "description": "Asynchronous MySQL driver for Nodejs",
   "main": "index.js",
@@ -27,8 +27,8 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wadecha/async-mysql.git"
+    "url": "git+https://github.com/wadecha/node-async-mysql.git"
   },
   "license": "ISC",
-  "homepage": "https://github.com/wadecha/async-mysql#readme"
+  "homepage": "https://github.com/wadecha/node-async-mysql#readme"
 }
