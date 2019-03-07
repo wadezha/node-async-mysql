@@ -1,4 +1,4 @@
-# node-idgen
+# node-async-mysql
 
 //Use this test.js need node version is higher than 7.0.0 .
 //And need the node arg "--harmony".
