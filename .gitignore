@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.vscode
+node_modules
+dist
+test
+logs
+*.log
+publish
+obj
+*.sln
+*.gypi
+*.vcxproj
+*.vcxproj.filters
